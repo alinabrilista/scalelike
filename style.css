@@ -1,0 +1,20 @@
+#scale {
+  width: 300px;
+  height: 21px;
+  border: black solid 1px;
+  margin-bottom: 20px;
+  position: relative;
+  left: 10px;
+  right: 10px;
+  top: 10px;
+}
+
+#scalelike {
+  width: 0;
+  height: 20px;
+  background-color: rgb(0, 255, 149);
+  border: black solid 1px;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+}
